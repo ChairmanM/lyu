@@ -1,0 +1,21 @@
+@media screen and (min-width:1023px) {
+    .header,
+    .footer {
+        width: 1024px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 100%;
+    }
+    .main,
+    .about,
+    .team,
+    .number,
+    .article,
+    .group,
+    .group-detail,
+    .share {
+        width: 1024px;
+    }
+}
